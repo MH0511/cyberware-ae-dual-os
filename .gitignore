@@ -1,0 +1,8 @@
+dist/
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+*.sqlite3
+test-deps/
